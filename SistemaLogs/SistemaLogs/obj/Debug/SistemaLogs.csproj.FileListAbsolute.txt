@@ -1,0 +1,12 @@
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.exe.config
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.exe
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.pdb
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.csprojResolveAssemblyReference.cache
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.exe
+C:\Users\Jurek Tumba\Source\Repos\MultiClassSolution\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.pdb
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.exe.config
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.exe
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\bin\Debug\SistemaLogs.pdb
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.csprojResolveAssemblyReference.cache
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.exe
+C:\Users\Jurek Tumba\Documents\Visual Studio 2015\Projects\SistemaLogs\SistemaLogs\obj\Debug\SistemaLogs.pdb
